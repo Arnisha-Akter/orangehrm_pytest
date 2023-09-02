@@ -36,6 +36,6 @@ def browser(request):
 # HTML Report
 
 def pytest_configure(config):
-    config._metadata["Project name"] = "OrangeHRM"
-    config._metadata["Module Name"] = "Login"
-    config._metadata["Tester"] = "Rares"
+    config.metadata["Project name"] = "OrangeHRM"
+    config.metadata["Module Name"] = "Login"
+    config.metadata["Tester"] = "Rares"

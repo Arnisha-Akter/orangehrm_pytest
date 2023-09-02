@@ -4,7 +4,7 @@ from utilities.ReadProperties import ReadConfig
 import pytest
 import openpyxl
 
-class Test_002_DDT_Login():
+class Test_001_DDT_Login():
     baseurl = ReadConfig.GetAplicationUrl()
     logger = logGen.logger()
     userandpass = "..\\TestData\\username&password.xlsx"
@@ -12,7 +12,7 @@ class Test_002_DDT_Login():
     
     @pytest.mark.regression
     def test_login_ddt(self, setup):
-        self.logger.info("*** Started Test_002_DDT_Login ***")
+        self.logger.info("*** Started Test_001_DDT_Login ***")
         self.driver = setup
         self.driver.get(self.baseurl)
         self.lp = loginpage(self.driver)
@@ -65,4 +65,4 @@ class Test_002_DDT_Login():
             assert False
         
         self.logger.info("*** End of DDT Testing ***")
-        self.logger.info("*** Completed Test_002_DDT_Login ***")
+        self.logger.info("*** Completed Test_001_DDT_Login ***")

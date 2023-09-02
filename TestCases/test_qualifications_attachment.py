@@ -6,7 +6,7 @@ from utilities.ReadProperties import ReadConfig
 import pytest
 import os
 
-class Test_020_Qualifications_Attachment():
+class Test_002_Qualifications_Attachment():
     baseurl = ReadConfig.GetAplicationUrl()
     username = ReadConfig.getusername()
     password = ReadConfig.getpassword()
@@ -15,7 +15,7 @@ class Test_020_Qualifications_Attachment():
     @pytest.mark.sanity
     @pytest.mark.regression
     def test_qualifications_attachment(self, setup):
-        self.logger.info("*** Test_020_Qualifications_Attachment ***")
+        self.logger.info("*** Test_002_Qualifications_Attachment ***")
         self.driver = setup
         self.driver.get(self.baseurl)
         self.lp = loginpage(self.driver)
