@@ -1,457 +1,513 @@
-25/08/2023 10:07:22 PM: INFO: 
+30/08/2023 10:07:22 PM: INFO: 
 
-25/08/2023 10:07:22 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:07:22 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:07:22 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:07:22 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:07:23 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
-25/08/2023 10:07:29 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:07:29 PM: INFO: *** Started MyInfo Page Categories Testing ***
-25/08/2023 10:07:52 PM: INFO: *** MyInfo Test Passed ***
-25/08/2023 10:07:52 PM: INFO: *** All Categories Succesfully Loaded ***
-25/08/2023 10:07:52 PM: INFO: *** Ending MyInfo Test ***
-25/08/2023 10:07:52 PM: INFO: 
+30/08/2023 10:07:22 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:07:22 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:07:22 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:07:22 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:07:23 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
+30/08/2023 10:07:29 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:07:29 PM: INFO: *** Started MyInfo Page Categories Testing ***
+30/08/2023 10:07:52 PM: INFO: *** MyInfo Test Passed ***
+30/08/2023 10:07:52 PM: INFO: *** All Categories Succesfully Loaded ***
+30/08/2023 10:07:52 PM: INFO: *** Ending MyInfo Test ***
+30/08/2023 10:07:52 PM: INFO: 
 
-25/08/2023 10:07:52 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:07:52 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:07:52 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:07:52 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:07:53 PM: INFO: *** Test_004_Edit_Contact_Details ***
-25/08/2023 10:07:59 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:07:59 PM: INFO: *** Started Edit Contact Details Test ***
-25/08/2023 10:08:25 PM: INFO: *** Modifying Contact Details ***
-25/08/2023 10:08:04 PM: INFO: *** Saving info ***
-25/08/2023 10:08:04 PM: INFO: *** Contact Details Validation Started ***
-25/08/2023 10:08:04 PM: INFO: *** Edit Contact Details Test Passed ***
-25/08/2023 10:08:04 PM: INFO: *** Ending Contact Details test ***
-25/08/2023 10:08:04 PM: INFO: 
+30/08/2023 10:07:52 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:07:52 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:07:52 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:07:52 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:07:53 PM: INFO: *** Test_004_Edit_Contact_Details ***
+30/08/2023 10:07:59 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:07:59 PM: INFO: *** Started Edit Contact Details Test ***
+30/08/2023 10:08:30 PM: INFO: *** Modifying Contact Details ***
+30/08/2023 10:08:04 PM: INFO: *** Saving info ***
+30/08/2023 10:08:04 PM: INFO: *** Contact Details Validation Started ***
+30/08/2023 10:08:04 PM: INFO: *** Edit Contact Details Test Passed ***
+30/08/2023 10:08:04 PM: INFO: *** Ending Contact Details test ***
+30/08/2023 10:08:04 PM: INFO: 
 
-25/08/2023 10:25:02 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:25:02 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:25:02 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:25:02 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:25:04 PM: INFO: *** Test_005_Membership_Attachment ***
-25/08/2023 10:25:10 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:25:10 PM: INFO: *** Started Attachment Test ***
-25/08/2023 10:25:12 PM: INFO: *** Adding Attachment ***
-25/08/2023 10:25:14 PM: INFO: *** Deleting Attachment ***
-25/08/2023 10:25:17 PM: INFO: *** Attachment Validation Test Started ***
-25/08/2023 10:25:17 PM: INFO: *** Attachment Test Passed ***
-25/08/2023 10:25:17 PM: INFO: *** Ending Attachment test ***
-25/08/2023 10:25:17 PM: INFO: 
+30/08/2023 10:30:02 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:30:02 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:30:02 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:30:02 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:30:04 PM: INFO: *** Test_005_Membership_Attachment ***
+30/08/2023 10:30:10 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:30:10 PM: INFO: *** Started Attachment Test ***
+30/08/2023 10:30:12 PM: INFO: *** Adding Attachment ***
+30/08/2023 10:30:14 PM: INFO: *** Deleting Attachment ***
+30/08/2023 10:30:17 PM: INFO: *** Attachment Validation Test Started ***
+30/08/2023 10:30:17 PM: INFO: *** Attachment Test Passed ***
+30/08/2023 10:30:17 PM: INFO: *** Ending Attachment test ***
+30/08/2023 10:30:17 PM: INFO: 
 
-25/08/2023 10:12:34 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:12:34 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:12:34 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:12:34 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:12:35 PM: INFO: *** Test_002_Qualifications_Attachment ***
-25/08/2023 10:12:42 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:12:42 PM: INFO: *** Started Attachment Test ***
-25/08/2023 10:12:44 PM: INFO: *** Adding Attachment ***
-25/08/2023 10:12:47 PM: INFO: *** Deleting Attachment ***
-25/08/2023 10:12:49 PM: INFO: *** Attachment Validation Test Started ***
-25/08/2023 10:12:49 PM: INFO: *** Attachment Test Passed ***
-25/08/2023 10:12:49 PM: INFO: *** Ending Attachment test ***
-25/08/2023 10:12:49 PM: INFO: 
+30/08/2023 10:12:34 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:12:34 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:12:34 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:12:34 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:12:35 PM: INFO: *** Test_002_Qualifications_Attachment ***
+30/08/2023 10:12:42 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:12:42 PM: INFO: *** Started Attachment Test ***
+30/08/2023 10:12:44 PM: INFO: *** Adding Attachment ***
+30/08/2023 10:12:47 PM: INFO: *** Deleting Attachment ***
+30/08/2023 10:12:49 PM: INFO: *** Attachment Validation Test Started ***
+30/08/2023 10:12:49 PM: INFO: *** Attachment Test Passed ***
+30/08/2023 10:12:49 PM: INFO: *** Ending Attachment test ***
+30/08/2023 10:12:49 PM: INFO: 
 
-25/08/2023 10:28:30 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:28:30 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:28:30 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:28:30 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:28:31 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
-25/08/2023 10:28:38 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:28:38 PM: INFO: *** Started MyInfo Page Categories Testing ***
-25/08/2023 10:29:25 PM: INFO: *** MyInfo Test Passed ***
-25/08/2023 10:29:25 PM: INFO: *** All Categories Succesfully Loaded ***
-25/08/2023 10:29:25 PM: INFO: *** Ending MyInfo Test ***
-25/08/2023 10:29:25 PM: INFO: 
+30/08/2023 10:28:30 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:28:30 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:28:30 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:28:30 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:28:31 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
+30/08/2023 10:28:38 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:28:38 PM: INFO: *** Started MyInfo Page Categories Testing ***
+30/08/2023 10:29:30 PM: INFO: *** MyInfo Test Passed ***
+30/08/2023 10:29:30 PM: INFO: *** All Categories Succesfully Loaded ***
+30/08/2023 10:29:30 PM: INFO: *** Ending MyInfo Test ***
+30/08/2023 10:29:30 PM: INFO: 
 
-25/08/2023 10:29:25 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:29:25 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:29:25 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:29:25 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:29:02 PM: INFO: *** Test_004_Edit_Contact_Details ***
-25/08/2023 10:29:09 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:29:09 PM: INFO: *** Started Edit Contact Details Test ***
-25/08/2023 10:29:25 PM: INFO: *** Modifying Contact Details ***
-25/08/2023 10:29:14 PM: INFO: *** Saving info ***
-25/08/2023 10:29:14 PM: INFO: *** Contact Details Validation Started ***
-25/08/2023 10:29:14 PM: INFO: *** Edit Contact Details Test Passed ***
-25/08/2023 10:29:14 PM: INFO: *** Ending Contact Details test ***
-25/08/2023 10:29:14 PM: INFO: 
+30/08/2023 10:29:30 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:29:30 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:29:30 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:29:30 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:29:02 PM: INFO: *** Test_004_Edit_Contact_Details ***
+30/08/2023 10:29:09 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:29:09 PM: INFO: *** Started Edit Contact Details Test ***
+30/08/2023 10:29:30 PM: INFO: *** Modifying Contact Details ***
+30/08/2023 10:29:14 PM: INFO: *** Saving info ***
+30/08/2023 10:29:14 PM: INFO: *** Contact Details Validation Started ***
+30/08/2023 10:29:14 PM: INFO: *** Edit Contact Details Test Passed ***
+30/08/2023 10:29:14 PM: INFO: *** Ending Contact Details test ***
+30/08/2023 10:29:14 PM: INFO: 
 
-25/08/2023 10:32:30 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:32:30 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:32:30 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:32:30 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:32:31 PM: INFO: *** Test_005_Membership_Attachment ***
-25/08/2023 10:32:38 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:32:38 PM: INFO: *** Started Attachment Test ***
-25/08/2023 10:32:40 PM: INFO: *** Adding Attachment ***
-25/08/2023 10:32:43 PM: INFO: *** Deleting Attachment ***
-25/08/2023 10:32:45 PM: INFO: *** Attachment Validation Test Started ***
-25/08/2023 10:32:45 PM: INFO: *** Attachment Test Passed ***
-25/08/2023 10:32:45 PM: INFO: *** Ending Attachment test ***
-25/08/2023 10:32:45 PM: INFO: 
+30/08/2023 10:32:30 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:32:30 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:32:30 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:32:30 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:32:31 PM: INFO: *** Test_005_Membership_Attachment ***
+30/08/2023 10:32:38 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:32:38 PM: INFO: *** Started Attachment Test ***
+30/08/2023 10:32:40 PM: INFO: *** Adding Attachment ***
+30/08/2023 10:32:43 PM: INFO: *** Deleting Attachment ***
+30/08/2023 10:32:45 PM: INFO: *** Attachment Validation Test Started ***
+30/08/2023 10:32:45 PM: INFO: *** Attachment Test Passed ***
+30/08/2023 10:32:45 PM: INFO: *** Ending Attachment test ***
+30/08/2023 10:32:45 PM: INFO: 
 
-25/08/2023 10:34:07 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:34:07 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:34:07 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:34:08 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:34:09 PM: INFO: *** Test_002_Qualifications_Attachment ***
-25/08/2023 10:34:15 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:34:15 PM: INFO: *** Started Attachment Test ***
-25/08/2023 10:34:17 PM: INFO: *** Adding Attachment ***
-25/08/2023 10:34:20 PM: INFO: *** Deleting Attachment ***
-25/08/2023 10:34:22 PM: INFO: *** Attachment Validation Test Started ***
-25/08/2023 10:34:22 PM: INFO: *** Attachment Test Passed ***
-25/08/2023 10:34:22 PM: INFO: *** Ending Attachment test ***
-25/08/2023 10:34:22 PM: INFO: 
+30/08/2023 10:34:07 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:34:07 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:34:07 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:34:08 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:34:09 PM: INFO: *** Test_002_Qualifications_Attachment ***
+30/08/2023 10:34:15 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:34:15 PM: INFO: *** Started Attachment Test ***
+30/08/2023 10:34:17 PM: INFO: *** Adding Attachment ***
+30/08/2023 10:34:20 PM: INFO: *** Deleting Attachment ***
+30/08/2023 10:34:22 PM: INFO: *** Attachment Validation Test Started ***
+30/08/2023 10:34:22 PM: INFO: *** Attachment Test Passed ***
+30/08/2023 10:34:22 PM: INFO: *** Ending Attachment test ***
+30/08/2023 10:34:22 PM: INFO: 
 
-25/08/2023 12:24:42 PM: INFO: ====== WebDriver manager ======
-25/08/2023 12:24:42 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 12:24:42 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 12:24:42 PM: INFO: There is no [win32] chromedriver for browser 95.0.4638 in cache
-25/08/2023 12:24:42 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 12:24:43 PM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/95.0.4638.69/chromedriver_win32.zip
-25/08/2023 12:24:49 PM: INFO: Driver has been saved in cache [C:\Users\Deathking\.wdm\drivers\chromedriver\win32\95.0.4638.69]
-25/08/2023 12:24:51 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
-25/08/2023 12:33:14 PM: INFO: 
+30/08/2023 12:24:42 PM: INFO: ====== WebDriver manager ======
+30/08/2023 12:24:42 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 12:24:42 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 12:24:42 PM: INFO: There is no [win32] chromedriver for browser 95.0.4638 in cache
+30/08/2023 12:24:42 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 12:24:43 PM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/95.0.4638.69/chromedriver_win32.zip
+30/08/2023 12:24:49 PM: INFO: Driver has been saved in cache [C:\Users\Deathking\.wdm\drivers\chromedriver\win32\95.0.4638.69]
+30/08/2023 12:24:51 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
+30/08/2023 12:33:14 PM: INFO: 
 
-25/08/2023 12:33:14 PM: INFO: ====== WebDriver manager ======
-25/08/2023 12:33:14 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 12:33:14 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 12:33:15 PM: INFO: Driver [C:\Users\Deathking\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 12:33:16 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
-25/08/2023 12:33:25 PM: INFO: *** Succesfully logged ***
-25/08/2023 12:33:25 PM: INFO: *** Started MyInfo Page Categories Testing ***
-25/08/2023 12:33:49 PM: INFO: *** MyInfo Test Passed ***
-25/08/2023 12:33:49 PM: INFO: *** All Categories Succesfully Loaded ***
-25/08/2023 12:33:49 PM: INFO: *** Ending MyInfo Test ***
-25/08/2023 12:33:49 PM: INFO: 
+30/08/2023 12:33:14 PM: INFO: ====== WebDriver manager ======
+30/08/2023 12:33:14 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 12:33:14 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 12:33:15 PM: INFO: Driver [C:\Users\Deathking\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 12:33:16 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
+30/08/2023 12:33:30 PM: INFO: *** Succesfully logged ***
+30/08/2023 12:33:30 PM: INFO: *** Started MyInfo Page Categories Testing ***
+30/08/2023 12:33:49 PM: INFO: *** MyInfo Test Passed ***
+30/08/2023 12:33:49 PM: INFO: *** All Categories Succesfully Loaded ***
+30/08/2023 12:33:49 PM: INFO: *** Ending MyInfo Test ***
+30/08/2023 12:33:49 PM: INFO: 
 
-25/08/2023 12:33:49 PM: INFO: ====== WebDriver manager ======
-25/08/2023 12:33:49 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 12:33:49 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 12:33:49 PM: INFO: Driver [C:\Users\Deathking\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 12:33:51 PM: INFO: *** Test_004_Edit_Contact_Details ***
-25/08/2023 12:33:59 PM: INFO: *** Succesfully logged ***
-25/08/2023 12:33:59 PM: INFO: *** Started Edit Contact Details Test ***
-25/08/2023 12:34:02 PM: INFO: *** Modifying Contact Details ***
-25/08/2023 12:34:06 PM: INFO: *** Saving info ***
-25/08/2023 12:34:06 PM: INFO: *** Contact Details Validation Started ***
-25/08/2023 12:34:06 PM: INFO: *** Edit Contact Details Test Passed ***
-25/08/2023 12:34:06 PM: INFO: *** Ending Contact Details test ***
-25/08/2023 12:34:06 PM: INFO: 
+30/08/2023 12:33:49 PM: INFO: ====== WebDriver manager ======
+30/08/2023 12:33:49 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 12:33:49 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 12:33:49 PM: INFO: Driver [C:\Users\Deathking\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 12:33:51 PM: INFO: *** Test_004_Edit_Contact_Details ***
+30/08/2023 12:33:59 PM: INFO: *** Succesfully logged ***
+30/08/2023 12:33:59 PM: INFO: *** Started Edit Contact Details Test ***
+30/08/2023 12:34:02 PM: INFO: *** Modifying Contact Details ***
+30/08/2023 12:34:06 PM: INFO: *** Saving info ***
+30/08/2023 12:34:06 PM: INFO: *** Contact Details Validation Started ***
+30/08/2023 12:34:06 PM: INFO: *** Edit Contact Details Test Passed ***
+30/08/2023 12:34:06 PM: INFO: *** Ending Contact Details test ***
+30/08/2023 12:34:06 PM: INFO: 
 
-25/08/2023 12:45:23 PM: INFO: ====== WebDriver manager ======
-25/08/2023 12:45:23 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 12:45:23 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 12:45:23 PM: INFO: Driver [C:\Users\Deathking\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 12:45:25 PM: INFO: *** Test_004_Edit_Contact_Details ***
-25/08/2023 12:45:35 PM: INFO: *** Succesfully logged ***
-25/08/2023 12:45:35 PM: INFO: *** Started Edit Contact Details Test ***
-25/08/2023 12:45:37 PM: INFO: *** Modifying Contact Details ***
-25/08/2023 12:45:41 PM: INFO: *** Saving info ***
-25/08/2023 12:45:41 PM: INFO: *** Contact Details Validation Started ***
-25/08/2023 12:45:41 PM: INFO: *** Edit Contact Details Test Passed ***
-25/08/2023 12:45:41 PM: INFO: *** Ending Contact Details test ***
-25/08/2023 12:45:41 PM: INFO: 
+30/08/2023 12:45:23 PM: INFO: ====== WebDriver manager ======
+30/08/2023 12:45:23 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 12:45:23 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 12:45:23 PM: INFO: Driver [C:\Users\Deathking\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 12:45:30 PM: INFO: *** Test_004_Edit_Contact_Details ***
+30/08/2023 12:45:35 PM: INFO: *** Succesfully logged ***
+30/08/2023 12:45:35 PM: INFO: *** Started Edit Contact Details Test ***
+30/08/2023 12:45:37 PM: INFO: *** Modifying Contact Details ***
+30/08/2023 12:45:41 PM: INFO: *** Saving info ***
+30/08/2023 12:45:41 PM: INFO: *** Contact Details Validation Started ***
+30/08/2023 12:45:41 PM: INFO: *** Edit Contact Details Test Passed ***
+30/08/2023 12:45:41 PM: INFO: *** Ending Contact Details test ***
+30/08/2023 12:45:41 PM: INFO: 
 
-25/08/2023 08:40:19 PM: INFO: ====== WebDriver manager ======
-25/08/2023 08:40:19 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 08:40:19 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 08:40:19 PM: INFO: Driver [C:\Users\Deathking\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 08:40:21 PM: INFO: *** Test_004_Edit_Contact_Details ***
-25/08/2023 08:40:41 PM: INFO: 
+30/08/2023 08:40:19 PM: INFO: ====== WebDriver manager ======
+30/08/2023 08:40:19 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 08:40:19 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 08:40:19 PM: INFO: Driver [C:\Users\Deathking\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 08:40:21 PM: INFO: *** Test_004_Edit_Contact_Details ***
+30/08/2023 08:40:41 PM: INFO: 
 
-25/08/2023 09:48:22 PM: INFO: ====== WebDriver manager ======
-25/08/2023 09:48:22 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 09:48:22 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 09:48:23 PM: INFO: Driver [C:\Users\Deathking\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 09:48:24 PM: INFO: *** Test_004_Edit_Contact_Details ***
-25/08/2023 09:48:28 PM: INFO: *** Succesfully logged ***
-25/08/2023 09:48:28 PM: INFO: *** Started Edit Contact Details Test ***
-25/08/2023 09:48:30 PM: INFO: *** Modifying Contact Details ***
-25/08/2023 09:48:32 PM: INFO: *** Saving info ***
-25/08/2023 09:48:32 PM: INFO: *** Contact Details Validation Started ***
-25/08/2023 09:48:32 PM: INFO: *** Edit Contact Details Test Passed ***
-25/08/2023 09:48:32 PM: INFO: *** Ending Contact Details test ***
-25/08/2023 09:48:32 PM: INFO: 
+30/08/2023 09:48:22 PM: INFO: ====== WebDriver manager ======
+30/08/2023 09:48:22 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 09:48:22 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 09:48:23 PM: INFO: Driver [C:\Users\Deathking\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 09:48:24 PM: INFO: *** Test_004_Edit_Contact_Details ***
+30/08/2023 09:48:28 PM: INFO: *** Succesfully logged ***
+30/08/2023 09:48:28 PM: INFO: *** Started Edit Contact Details Test ***
+30/08/2023 09:48:30 PM: INFO: *** Modifying Contact Details ***
+30/08/2023 09:48:32 PM: INFO: *** Saving info ***
+30/08/2023 09:48:32 PM: INFO: *** Contact Details Validation Started ***
+30/08/2023 09:48:32 PM: INFO: *** Edit Contact Details Test Passed ***
+30/08/2023 09:48:32 PM: INFO: *** Ending Contact Details test ***
+30/08/2023 09:48:32 PM: INFO: 
 
-25/08/2023 09:57:16 PM: INFO: ====== WebDriver manager ======
-25/08/2023 09:57:16 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 09:57:16 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 09:57:16 PM: INFO: Driver [C:\Users\Deathking\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 09:57:18 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
-25/08/2023 09:57:22 PM: INFO: *** Succesfully logged ***
-25/08/2023 09:57:22 PM: INFO: *** Started MyInfo Page Categories Testing ***
-25/08/2023 09:57:31 PM: INFO: *** MyInfo Test Passed ***
-25/08/2023 09:57:31 PM: INFO: *** All Categories Succesfully Loaded ***
-25/08/2023 09:57:31 PM: INFO: *** Ending MyInfo Test ***
-25/08/2023 09:57:31 PM: INFO: 
+30/08/2023 09:57:16 PM: INFO: ====== WebDriver manager ======
+30/08/2023 09:57:16 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 09:57:16 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 09:57:16 PM: INFO: Driver [C:\Users\Deathking\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 09:57:18 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
+30/08/2023 09:57:22 PM: INFO: *** Succesfully logged ***
+30/08/2023 09:57:22 PM: INFO: *** Started MyInfo Page Categories Testing ***
+30/08/2023 09:57:31 PM: INFO: *** MyInfo Test Passed ***
+30/08/2023 09:57:31 PM: INFO: *** All Categories Succesfully Loaded ***
+30/08/2023 09:57:31 PM: INFO: *** Ending MyInfo Test ***
+30/08/2023 09:57:31 PM: INFO: 
 
-25/08/2023 09:58:56 PM: INFO: ====== WebDriver manager ======
-25/08/2023 09:58:56 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 09:58:56 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 09:58:56 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 09:58:56 PM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/95.0.4638.69/chromedriver_win32.zip
-25/08/2023 09:58:57 PM: INFO: Driver has been saved in cache [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69]
-25/08/2023 09:59:00 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
-25/08/2023 09:59:05 PM: INFO: *** Succesfully logged ***
-25/08/2023 09:59:05 PM: INFO: *** Started MyInfo Page Categories Testing ***
-25/08/2023 09:59:21 PM: INFO: *** MyInfo Test Passed ***
-25/08/2023 09:59:21 PM: INFO: *** All Categories Succesfully Loaded ***
-25/08/2023 09:59:21 PM: INFO: *** Ending MyInfo Test ***
-25/08/2023 09:59:21 PM: INFO: 
+30/08/2023 09:58:56 PM: INFO: ====== WebDriver manager ======
+30/08/2023 09:58:56 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 09:58:56 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 09:58:56 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 09:58:56 PM: INFO: Trying to download new driver from https://chromedriver.storage.googleapis.com/95.0.4638.69/chromedriver_win32.zip
+30/08/2023 09:58:57 PM: INFO: Driver has been saved in cache [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69]
+30/08/2023 09:59:00 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
+30/08/2023 09:59:05 PM: INFO: *** Succesfully logged ***
+30/08/2023 09:59:05 PM: INFO: *** Started MyInfo Page Categories Testing ***
+30/08/2023 09:59:21 PM: INFO: *** MyInfo Test Passed ***
+30/08/2023 09:59:21 PM: INFO: *** All Categories Succesfully Loaded ***
+30/08/2023 09:59:21 PM: INFO: *** Ending MyInfo Test ***
+30/08/2023 09:59:21 PM: INFO: 
 
-25/08/2023 09:59:21 PM: INFO: ====== WebDriver manager ======
-25/08/2023 09:59:21 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 09:59:21 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 09:59:21 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 09:59:23 PM: INFO: *** Test_004_Edit_Contact_Details ***
-25/08/2023 09:59:27 PM: INFO: *** Succesfully logged ***
-25/08/2023 09:59:27 PM: INFO: *** Started Edit Contact Details Test ***
-25/08/2023 09:59:30 PM: INFO: *** Modifying Contact Details ***
-25/08/2023 09:59:32 PM: INFO: *** Saving info ***
-25/08/2023 09:59:32 PM: INFO: *** Contact Details Validation Started ***
-25/08/2023 09:59:32 PM: INFO: *** Edit Contact Details Test Passed ***
-25/08/2023 09:59:32 PM: INFO: *** Ending Contact Details test ***
-25/08/2023 09:59:32 PM: INFO: 
+30/08/2023 09:59:21 PM: INFO: ====== WebDriver manager ======
+30/08/2023 09:59:21 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 09:59:21 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 09:59:21 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 09:59:23 PM: INFO: *** Test_004_Edit_Contact_Details ***
+30/08/2023 09:59:27 PM: INFO: *** Succesfully logged ***
+30/08/2023 09:59:27 PM: INFO: *** Started Edit Contact Details Test ***
+30/08/2023 09:59:30 PM: INFO: *** Modifying Contact Details ***
+30/08/2023 09:59:32 PM: INFO: *** Saving info ***
+30/08/2023 09:59:32 PM: INFO: *** Contact Details Validation Started ***
+30/08/2023 09:59:32 PM: INFO: *** Edit Contact Details Test Passed ***
+30/08/2023 09:59:32 PM: INFO: *** Ending Contact Details test ***
+30/08/2023 09:59:32 PM: INFO: 
 
-25/08/2023 10:25:57 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:25:57 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:25:57 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:25:57 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:25:59 PM: INFO: *** Test_005_Membership_Attachment ***
-25/08/2023 10:02:03 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:02:03 PM: INFO: *** Started Attachment Test ***
-25/08/2023 10:02:06 PM: INFO: *** Adding Attachment ***
-25/08/2023 10:02:07 PM: INFO: *** Deleting Attachment ***
-25/08/2023 10:02:08 PM: INFO: *** Attachment Validation Test Started ***
-25/08/2023 10:02:08 PM: INFO: *** Attachment Test Passed ***
-25/08/2023 10:02:08 PM: INFO: *** Ending Attachment test ***
-25/08/2023 10:02:08 PM: INFO: 
+30/08/2023 10:30:57 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:30:57 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:30:57 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:30:57 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:30:59 PM: INFO: *** Test_005_Membership_Attachment ***
+30/08/2023 10:02:03 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:02:03 PM: INFO: *** Started Attachment Test ***
+30/08/2023 10:02:06 PM: INFO: *** Adding Attachment ***
+30/08/2023 10:02:07 PM: INFO: *** Deleting Attachment ***
+30/08/2023 10:02:08 PM: INFO: *** Attachment Validation Test Started ***
+30/08/2023 10:02:08 PM: INFO: *** Attachment Test Passed ***
+30/08/2023 10:02:08 PM: INFO: *** Ending Attachment test ***
+30/08/2023 10:02:08 PM: INFO: 
 
-25/08/2023 10:02:43 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:02:43 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:02:43 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:02:43 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:02:44 PM: INFO: ***02 ***
-25/08/2023 10:02:49 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:02:49 PM: INFO: *** Started Attachment Test ***
-25/08/2023 10:02:51 PM: INFO: *** Adding Attachment ***
-25/08/2023 10:02:53 PM: INFO: *** Deleting Attachment ***
-25/08/2023 10:02:54 PM: INFO: *** Attachment Validation Test Started ***
-25/08/2023 10:02:54 PM: INFO: *** Attachment Test Passed ***
-25/08/2023 10:02:54 PM: INFO: *** Ending Attachment test ***
-25/08/2023 10:02:54 PM: INFO: 
+30/08/2023 10:02:43 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:02:43 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:02:43 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:02:43 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:02:44 PM: INFO: ***02 ***
+30/08/2023 10:02:49 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:02:49 PM: INFO: *** Started Attachment Test ***
+30/08/2023 10:02:51 PM: INFO: *** Adding Attachment ***
+30/08/2023 10:02:53 PM: INFO: *** Deleting Attachment ***
+30/08/2023 10:02:54 PM: INFO: *** Attachment Validation Test Started ***
+30/08/2023 10:02:54 PM: INFO: *** Attachment Test Passed ***
+30/08/2023 10:02:54 PM: INFO: *** Ending Attachment test ***
+30/08/2023 10:02:54 PM: INFO: 
 
-25/08/2023 08:25:17 PM: INFO: ====== WebDriver manager ======
-25/08/2023 08:25:17 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 08:25:17 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 08:25:17 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 08:25:19 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
-25/08/2023 08:25:22 PM: INFO: *** Succesfully logged ***
-25/08/2023 08:25:22 PM: INFO: *** Started MyInfo Page Categories Testing ***
-25/08/2023 08:25:37 PM: INFO: *** MyInfo Test Passed ***
-25/08/2023 08:25:37 PM: INFO: *** All Categories Succesfully Loaded ***
-25/08/2023 08:25:37 PM: INFO: *** Ending MyInfo Test ***
-25/08/2023 08:25:37 PM: INFO: 
+30/08/2023 08:30:17 PM: INFO: ====== WebDriver manager ======
+30/08/2023 08:30:17 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 08:30:17 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 08:30:17 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 08:30:19 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
+30/08/2023 08:30:22 PM: INFO: *** Succesfully logged ***
+30/08/2023 08:30:22 PM: INFO: *** Started MyInfo Page Categories Testing ***
+30/08/2023 08:30:37 PM: INFO: *** MyInfo Test Passed ***
+30/08/2023 08:30:37 PM: INFO: *** All Categories Succesfully Loaded ***
+30/08/2023 08:30:37 PM: INFO: *** Ending MyInfo Test ***
+30/08/2023 08:30:37 PM: INFO: 
 
-25/08/2023 10:26:05 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:26:05 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:26:05 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:26:05 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:26:05 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:26:05 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:26:05 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:26:05 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:26:05 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:26:05 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:26:05 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:26:05 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:26:07 PM: INFO: *** Test_016_ContactDetails_Attachment ***
-25/08/2023 10:26:07 PM: INFO: *** Test_004_Edit_Contact_Details ***
-25/08/2023 10:26:07 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
-25/08/2023 10:26:25 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:26:25 PM: INFO: *** Started Edit Contact Details Test ***
-25/08/2023 10:26:12 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:26:12 PM: INFO: *** Started Contact Details Test ***
-25/08/2023 10:26:12 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:26:12 PM: INFO: *** Started MyInfo Page Categories Testing ***
-25/08/2023 10:26:14 PM: INFO: *** Modifying Contact Details ***
-25/08/2023 10:26:14 PM: INFO: *** Adding Attachment ***
-25/08/2023 10:26:16 PM: INFO: *** Deleting Attachment ***
-25/08/2023 10:26:16 PM: INFO: *** Saving info ***
-25/08/2023 10:26:16 PM: INFO: *** Contact Details Validation Started ***
-25/08/2023 10:26:16 PM: INFO: *** Edit Contact Details Test Passed ***
-25/08/2023 10:26:16 PM: INFO: *** Ending Contact Details test ***
-25/08/2023 10:26:16 PM: INFO: 
+30/08/2023 10:26:05 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:26:05 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:26:05 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:26:05 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:26:05 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:26:05 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:26:05 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:26:05 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:26:05 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:26:05 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:26:05 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:26:05 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:26:07 PM: INFO: *** Test_016_ContactDetails_Attachment ***
+30/08/2023 10:26:07 PM: INFO: *** Test_004_Edit_Contact_Details ***
+30/08/2023 10:26:07 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
+30/08/2023 10:26:30 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:26:30 PM: INFO: *** Started Edit Contact Details Test ***
+30/08/2023 10:26:12 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:26:12 PM: INFO: *** Started Contact Details Test ***
+30/08/2023 10:26:12 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:26:12 PM: INFO: *** Started MyInfo Page Categories Testing ***
+30/08/2023 10:26:14 PM: INFO: *** Modifying Contact Details ***
+30/08/2023 10:26:14 PM: INFO: *** Adding Attachment ***
+30/08/2023 10:26:16 PM: INFO: *** Deleting Attachment ***
+30/08/2023 10:26:16 PM: INFO: *** Saving info ***
+30/08/2023 10:26:16 PM: INFO: *** Contact Details Validation Started ***
+30/08/2023 10:26:16 PM: INFO: *** Edit Contact Details Test Passed ***
+30/08/2023 10:26:16 PM: INFO: *** Ending Contact Details test ***
+30/08/2023 10:26:16 PM: INFO: 
 
-25/08/2023 10:26:58 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:26:58 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:26:58 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:26:58 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:26:59 PM: INFO: *** Saving License ***
-25/08/2023 10:26:59 PM: INFO: *** Deleting Licenses ***
-25/08/2023 10:26:59 PM: INFO: *** Test_005_Membership_Attachment ***
-25/08/2023 10:27:00 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:27:00 PM: INFO: *** Started Assign Membership Test ***
-25/08/2023 10:27:25 PM: INFO: *** License Test Validation Started ***
-25/08/2023 10:27:25 PM: INFO: *** Licence Test Passed ***
-25/08/2023 10:27:25 PM: INFO: *** Ending Licence test ***
-25/08/2023 10:27:25 PM: INFO: 
+30/08/2023 10:26:58 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:26:58 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:26:58 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:26:58 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:26:59 PM: INFO: *** Saving License ***
+30/08/2023 10:26:59 PM: INFO: *** Deleting Licenses ***
+30/08/2023 10:26:59 PM: INFO: *** Test_005_Membership_Attachment ***
+30/08/2023 10:27:00 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:27:00 PM: INFO: *** Started Assign Membership Test ***
+30/08/2023 10:27:30 PM: INFO: *** License Test Validation Started ***
+30/08/2023 10:27:30 PM: INFO: *** Licence Test Passed ***
+30/08/2023 10:27:30 PM: INFO: *** Ending Licence test ***
+30/08/2023 10:27:30 PM: INFO: 
 
-25/08/2023 10:27:17 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:27:17 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:27:17 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:27:17 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:27:19 PM: INFO: *** Deleting Attachment ***
-25/08/2023 10:27:19 PM: INFO: ***02 ***
-25/08/2023 10:27:19 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:27:19 PM: INFO: *** Started Profile Picture Test ***
-25/08/2023 10:27:20 PM: INFO: *** Attachment Validation Test Started ***
-25/08/2023 10:27:20 PM: INFO: *** Attachment Test Passed ***
-25/08/2023 10:27:20 PM: INFO: *** Ending Attachment test ***
-25/08/2023 10:27:20 PM: INFO: 
+30/08/2023 10:27:17 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:27:17 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:27:17 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:27:17 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:27:19 PM: INFO: *** Deleting Attachment ***
+30/08/2023 10:27:19 PM: INFO: ***02 ***
+30/08/2023 10:27:19 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:27:19 PM: INFO: *** Started Profile Picture Test ***
+30/08/2023 10:27:20 PM: INFO: *** Attachment Validation Test Started ***
+30/08/2023 10:27:20 PM: INFO: *** Attachment Test Passed ***
+30/08/2023 10:27:20 PM: INFO: *** Ending Attachment test ***
+30/08/2023 10:27:20 PM: INFO: 
 
-25/08/2023 10:32:54 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:32:54 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:32:54 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:32:54 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:32:55 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
-25/08/2023 10:33:00 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:33:00 PM: INFO: *** Started MyInfo Page Categories Testing ***
-25/08/2023 10:33:10 PM: INFO: *** MyInfo Test Passed ***
-25/08/2023 10:33:10 PM: INFO: *** All Categories Succesfully Loaded ***
-25/08/2023 10:33:10 PM: INFO: *** Ending MyInfo Test ***
-25/08/2023 10:17:55 PM: INFO: 
+30/08/2023 10:32:54 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:32:54 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:32:54 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:32:54 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:32:55 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
+30/08/2023 10:33:00 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:33:00 PM: INFO: *** Started MyInfo Page Categories Testing ***
+30/08/2023 10:33:10 PM: INFO: *** MyInfo Test Passed ***
+30/08/2023 10:33:10 PM: INFO: *** All Categories Succesfully Loaded ***
+30/08/2023 10:33:10 PM: INFO: *** Ending MyInfo Test ***
+30/08/2023 10:17:55 PM: INFO: 
 
-25/08/2023 10:17:57 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:17:57 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:17:57 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:17:57 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:17:57 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:18:00 PM: INFO: *** Test_009_Education ***
-25/08/2023 10:18:00 PM: INFO: *** Test_004_Edit_Contact_Details ***
-25/08/2023 10:18:00 PM: INFO: *** Test_006_Dependents ***
-25/08/2023 10:18:04 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:18:04 PM: INFO: *** Started Edit Contact Details Test ***
-25/08/2023 10:18:05 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:18:05 PM: INFO: *** Started Education Test ***
-25/08/2023 10:18:05 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:18:05 PM: INFO: *** Started Dependents Test ***
-25/08/2023 10:18:06 PM: INFO: *** Modifying Contact Details ***
-25/08/2023 10:18:07 PM: INFO: *** Adding Education ***
-25/08/2023 10:18:07 PM: INFO: *** Adding Dependent ***
-25/08/2023 10:18:09 PM: INFO: *** Saving Dependent ***
-25/08/2023 10:18:09 PM: INFO: *** Deleting Dependent ***
-25/08/2023 10:18:09 PM: INFO: *** Saving Education ***
-25/08/2023 10:18:09 PM: INFO: *** Deleting Education ***
-25/08/2023 10:18:09 PM: INFO: *** Saving info ***
-25/08/2023 10:18:09 PM: INFO: *** Contact Details Validation Started ***
-25/08/2023 10:18:09 PM: INFO: *** Edit Contact Details Test Passed ***
-25/08/2023 10:18:09 PM: INFO: *** Ending Contact Details test ***
-25/08/2023 10:18:09 PM: INFO: 
+30/08/2023 10:17:57 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:17:57 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:17:57 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:17:57 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:17:57 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:18:00 PM: INFO: *** Test_009_Education ***
+30/08/2023 10:18:00 PM: INFO: *** Test_004_Edit_Contact_Details ***
+30/08/2023 10:18:00 PM: INFO: *** Test_006_Dependents ***
+30/08/2023 10:18:04 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:18:04 PM: INFO: *** Started Edit Contact Details Test ***
+30/08/2023 10:18:05 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:18:05 PM: INFO: *** Started Education Test ***
+30/08/2023 10:18:05 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:18:05 PM: INFO: *** Started Dependents Test ***
+30/08/2023 10:18:06 PM: INFO: *** Modifying Contact Details ***
+30/08/2023 10:18:07 PM: INFO: *** Adding Education ***
+30/08/2023 10:18:07 PM: INFO: *** Adding Dependent ***
+30/08/2023 10:18:09 PM: INFO: *** Saving Dependent ***
+30/08/2023 10:18:09 PM: INFO: *** Deleting Dependent ***
+30/08/2023 10:18:09 PM: INFO: *** Saving Education ***
+30/08/2023 10:18:09 PM: INFO: *** Deleting Education ***
+30/08/2023 10:18:09 PM: INFO: *** Saving info ***
+30/08/2023 10:18:09 PM: INFO: *** Contact Details Validation Started ***
+30/08/2023 10:18:09 PM: INFO: *** Edit Contact Details Test Passed ***
+30/08/2023 10:18:09 PM: INFO: *** Ending Contact Details test ***
+30/08/2023 10:18:09 PM: INFO: 
 
-11/10/2021 10:21:46 PM: INFO: ====== WebDriver manager ======
-11/10/2021 10:21:46 PM: INFO: Current google-chrome version is 95.0.4638
-11/10/2021 10:21:46 PM: INFO: Get LATEST driver version for 95.0.4638
-11/10/2021 10:21:46 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-11/10/2021 10:21:47 PM: INFO: *** Started Test_001_DDT_Login ***
-11/10/2021 10:21:52 PM: INFO: *** Passed ***
-11/10/2021 10:21:55 PM: INFO: *** Passed ***
-11/10/2021 10:21:59 PM: INFO: *** Passed ***
-11/10/2021 10:22:04 PM: INFO: *** Passed ***
-11/10/2021 10:22:05 PM: INFO: DDT Test Passed
-11/10/2021 10:22:05 PM: INFO: *** End of DDT Testing ***
-11/10/2021 10:22:05 PM: INFO: *** Completed Test_001_DDT_Login ***
-11/10/2021 10:27:47 PM: INFO: 
+30/10/2021 10:21:46 PM: INFO: ====== WebDriver manager ======
+30/10/2021 10:21:46 PM: INFO: Current google-chrome version is 95.0.4638
+30/10/2021 10:21:46 PM: INFO: Get LATEST driver version for 95.0.4638
+30/10/2021 10:21:46 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/10/2021 10:21:47 PM: INFO: *** Started Test_001_DDT_Login ***
+30/10/2021 10:21:52 PM: INFO: *** Passed ***
+30/10/2021 10:21:55 PM: INFO: *** Passed ***
+30/10/2021 10:21:59 PM: INFO: *** Passed ***
+30/10/2021 10:22:04 PM: INFO: *** Passed ***
+30/10/2021 10:22:05 PM: INFO: DDT Test Passed
+30/10/2021 10:22:05 PM: INFO: *** End of DDT Testing ***
+30/10/2021 10:22:05 PM: INFO: *** Completed Test_001_DDT_Login ***
+30/10/2021 10:27:47 PM: INFO: 
 
-11/10/2021 10:53:56 PM: INFO: ====== WebDriver manager ======
-11/10/2021 10:53:56 PM: INFO: Current google-chrome version is 95.0.4638
-11/10/2021 10:53:56 PM: INFO: Get LATEST driver version for 95.0.4638
-11/10/2021 10:53:56 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-11/10/2021 10:53:57 PM: INFO: *** Started Test_001_DDT_Login ***
-11/10/2021 10:54:01 PM: INFO: *** Login Passed ***
-11/10/2021 10:54:04 PM: INFO: *** Login Passed ***
-11/10/2021 10:54:06 PM: INFO: *** Login Passed ***
-11/10/2021 10:54:10 PM: INFO: *** Login Passed ***
-11/10/2021 10:54:11 PM: INFO: DDT Test Passed
-11/10/2021 10:54:11 PM: INFO: *** End of DDT Testing ***
-11/10/2021 10:54:11 PM: INFO: *** Completed Test_001_DDT_Login ***
-11/11/2021 12:24:42 PM: INFO: 
+30/10/2021 10:53:56 PM: INFO: ====== WebDriver manager ======
+30/10/2021 10:53:56 PM: INFO: Current google-chrome version is 95.0.4638
+30/10/2021 10:53:56 PM: INFO: Get LATEST driver version for 95.0.4638
+30/10/2021 10:53:56 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/10/2021 10:53:57 PM: INFO: *** Started Test_001_DDT_Login ***
+30/10/2021 10:54:01 PM: INFO: *** Login Passed ***
+30/10/2021 10:54:04 PM: INFO: *** Login Passed ***
+30/10/2021 10:54:06 PM: INFO: *** Login Passed ***
+30/10/2021 10:54:10 PM: INFO: *** Login Passed ***
+30/10/2021 10:54:30 PM: INFO: DDT Test Passed
+30/10/2021 10:54:30 PM: INFO: *** End of DDT Testing ***
+30/10/2021 10:54:30 PM: INFO: *** Completed Test_001_DDT_Login ***
+30/30/2021 12:24:42 PM: INFO: 
 
-25/08/2023 10:20:28 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:20:28 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:20:28 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:20:28 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:20:28 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:20:28 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:20:28 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:20:28 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:20:28 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:20:28 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:20:28 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:20:28 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:20:30 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
-25/08/2023 10:20:31 PM: INFO: *** Test_004_Edit_Contact_Details ***
-25/08/2023 10:20:31 PM: INFO: *** Test_016_ContactDetails_Attachment ***
-25/08/2023 10:20:37 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:20:37 PM: INFO: *** Started MyInfo Page Categories Testing ***
-25/08/2023 10:20:37 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:20:37 PM: INFO: *** Started Contact Details Test ***
-25/08/2023 10:20:38 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:20:38 PM: INFO: *** Started Edit Contact Details Test ***
-25/08/2023 10:20:40 PM: INFO: *** Modifying Contact Details ***
-25/08/2023 10:20:40 PM: INFO: *** Adding Attachment ***
-25/08/2023 10:20:42 PM: INFO: *** Deleting Attachment ***
-25/08/2023 10:20:43 PM: INFO: *** Saving info ***
-25/08/2023 10:20:43 PM: INFO: *** Contact Details Validation Started ***
-25/08/2023 10:20:43 PM: INFO: *** Edit Contact Details Test Passed ***
-25/08/2023 10:20:43 PM: INFO: *** Attachment Validation Test Started ***
-25/08/2023 10:20:43 PM: INFO: *** Attachment Test Passed ***
-25/08/2023 10:20:43 PM: INFO: *** Ending Attachment test ***
-25/08/2023 10:20:43 PM: INFO: 
+30/08/2023 10:20:28 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:20:28 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:20:28 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:20:28 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:20:28 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:20:28 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:20:28 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:20:28 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:20:28 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:20:28 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:20:28 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:20:28 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:20:30 PM: INFO: *** Test_000_MyInfo_Page_Categories ***
+30/08/2023 10:20:31 PM: INFO: *** Test_004_Edit_Contact_Details ***
+30/08/2023 10:20:31 PM: INFO: *** Test_016_ContactDetails_Attachment ***
+30/08/2023 10:20:37 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:20:37 PM: INFO: *** Started MyInfo Page Categories Testing ***
+30/08/2023 10:20:37 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:20:37 PM: INFO: *** Started Contact Details Test ***
+30/08/2023 10:20:38 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:20:38 PM: INFO: *** Started Edit Contact Details Test ***
+30/08/2023 10:20:40 PM: INFO: *** Modifying Contact Details ***
+30/08/2023 10:20:40 PM: INFO: *** Adding Attachment ***
+30/08/2023 10:20:42 PM: INFO: *** Deleting Attachment ***
+30/08/2023 10:20:43 PM: INFO: *** Saving info ***
+30/08/2023 10:20:43 PM: INFO: *** Contact Details Validation Started ***
+30/08/2023 10:20:43 PM: INFO: *** Edit Contact Details Test Passed ***
+30/08/2023 10:20:43 PM: INFO: *** Attachment Validation Test Started ***
+30/08/2023 10:20:43 PM: INFO: *** Attachment Test Passed ***
+30/08/2023 10:20:43 PM: INFO: *** Ending Attachment test ***
+30/08/2023 10:20:43 PM: INFO: 
 
-25/08/2023 10:21:33 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:21:33 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:21:33 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:21:33 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:21:33 PM: INFO: *** Login Passed ***
-25/08/2023 10:21:34 PM: INFO: *** Test_005_Membership_Attachment ***
-25/08/2023 10:21:35 PM: INFO: *** Login Passed ***
-25/08/2023 10:21:35 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:21:35 PM: INFO: *** Started Assign Membership Test ***
-25/08/2023 10:21:37 PM: INFO: *** Login Passed ***
-25/08/2023 10:21:37 PM: INFO: *** Assigning Membership ***
-25/08/2023 10:21:39 PM: INFO: *** Saving Membership ***
-25/08/2023 10:21:39 PM: INFO: *** Deleting Memberships ***
-25/08/2023 10:21:40 PM: INFO: *** Login Passed ***
-25/08/2023 10:21:40 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:21:40 PM: INFO: *** Started Attachment Test ***
-25/08/2023 10:21:40 PM: INFO: *** Memberships Test Validation Started ***
-25/08/2023 10:21:40 PM: INFO: *** Memberships Test Passed ***
-25/08/2023 10:21:41 PM: INFO: DDT Test Passed
-25/08/2023 10:21:41 PM: INFO: *** End of DDT Testing ***
-25/08/2023 10:21:41 PM: INFO: *** Completed Test_001_DDT_Login ***
-25/08/2023 10:21:41 PM: INFO: 
+30/10/2021 10:09:17 PM: INFO: ====== WebDriver manager ======
+30/10/2021 10:09:17 PM: INFO: Current google-chrome version is 95.0.4638
+30/10/2021 10:09:17 PM: INFO: Get LATEST driver version for 95.0.4638
+30/10/2021 10:09:17 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/10/2021 10:09:19 PM: INFO: *** Test_005_EmergencyContacts_Attachment ***
+30/10/2021 10:09:30 PM: INFO: *** Succesfully logged ***
+30/10/2021 10:09:30 PM: INFO: *** Started Attachment Test ***
+30/10/2021 10:09:27 PM: INFO: *** Adding Attachment ***
+30/10/2021 10:09:30 PM: INFO: *** Deleting Attachment ***
+30/10/2021 10:09:32 PM: INFO: *** Attachment Validation Test Started ***
+30/10/2021 10:09:32 PM: INFO: *** Attachment Test Passed ***
+30/10/2021 10:09:32 PM: INFO: *** Ending Attachment test ***
+30/10/2021 10:09:32 PM: INFO: 
+
+30/10/2021 10:30:28 PM: INFO: ====== WebDriver manager ======
+30/10/2021 10:30:28 PM: INFO: Current google-chrome version is 95.0.4638
+30/10/2021 10:30:28 PM: INFO: Get LATEST driver version for 95.0.4638
+30/10/2021 10:30:28 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/10/2021 10:30:29 PM: INFO: *** Test_005_EmergencyContacts_Attachment ***
+30/10/2021 10:30:36 PM: INFO: *** Succesfully logged ***
+30/10/2021 10:30:36 PM: INFO: *** Started Attachment Test ***
+30/10/2021 10:30:38 PM: INFO: *** Adding Attachment ***
+30/10/2021 10:30:40 PM: INFO: *** Deleting Attachment ***
+30/10/2021 10:30:42 PM: INFO: *** Attachment Validation Test Started ***
+30/10/2021 10:30:42 PM: INFO: *** Attachment Test Passed ***
+30/10/2021 10:30:42 PM: INFO: *** Ending Attachment test ***
+30/10/2021 10:30:42 PM: INFO: 
+
+30/08/2023 10:21:33 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:21:33 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:21:33 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:21:33 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:21:33 PM: INFO: *** Login Passed ***
+30/08/2023 10:21:34 PM: INFO: *** Test_005_Membership_Attachment ***
+30/08/2023 10:21:35 PM: INFO: *** Login Passed ***
+30/08/2023 10:21:35 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:21:35 PM: INFO: *** Started Assign Membership Test ***
+30/08/2023 10:21:37 PM: INFO: *** Login Passed ***
+30/08/2023 10:21:37 PM: INFO: *** Assigning Membership ***
+30/08/2023 10:21:39 PM: INFO: *** Saving Membership ***
+30/08/2023 10:21:39 PM: INFO: *** Deleting Memberships ***
+30/08/2023 10:21:40 PM: INFO: *** Login Passed ***
+30/08/2023 10:21:40 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:21:40 PM: INFO: *** Started Attachment Test ***
+30/08/2023 10:21:40 PM: INFO: *** Memberships Test Validation Started ***
+30/08/2023 10:21:40 PM: INFO: *** Memberships Test Passed ***
+30/08/2023 10:21:41 PM: INFO: DDT Test Passed
+30/08/2023 10:21:41 PM: INFO: *** End of DDT Testing ***
+30/08/2023 10:21:41 PM: INFO: *** Completed Test_001_DDT_Login ***
+30/08/2023 10:21:41 PM: INFO: 
 
 
-25/08/2023 10:21:54 PM: INFO: ====== WebDriver manager ======
-25/08/2023 10:21:54 PM: INFO: Current google-chrome version is 95.0.4638
-25/08/2023 10:21:54 PM: INFO: Get LATEST driver version for 95.0.4638
-25/08/2023 10:21:54 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-25/08/2023 10:21:56 PM: INFO: ***02 ***
-25/08/2023 10:21:57 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:21:57 PM: INFO: *** Started Profile Picture Test ***
-25/08/2023 10:21:59 PM: INFO: *** Saving Photograph ***
-25/08/2023 10:22:00 PM: INFO: *** Succesfully logged ***
-25/08/2023 10:22:00 PM: INFO: *** Started Skills Test ***
-25/08/2023 10:22:02 PM: INFO: *** Deleting Photograph ***
-25/08/2023 10:22:02 PM: INFO: *** Photo Validation Test Started ***
-25/08/2023 10:22:02 PM: INFO: *** Profile Picture Test Passed ***
-25/08/2023 10:22:02 PM: INFO: *** Ending Profile Picture test ***
-25/08/2023 10:22:02 PM: INFO:
+30/08/2023 10:21:54 PM: INFO: ====== WebDriver manager ======
+30/08/2023 10:21:54 PM: INFO: Current google-chrome version is 95.0.4638
+30/08/2023 10:21:54 PM: INFO: Get LATEST driver version for 95.0.4638
+30/08/2023 10:21:54 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/08/2023 10:21:56 PM: INFO: ***02 ***
+30/08/2023 10:21:57 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:21:57 PM: INFO: *** Started Profile Picture Test ***
+30/08/2023 10:21:59 PM: INFO: *** Saving Photograph ***
+30/08/2023 10:22:00 PM: INFO: *** Succesfully logged ***
+30/08/2023 10:22:00 PM: INFO: *** Started Skills Test ***
+30/08/2023 10:22:02 PM: INFO: *** Deleting Photograph ***
+30/08/2023 10:22:02 PM: INFO: *** Photo Validation Test Started ***
+30/08/2023 10:22:02 PM: INFO: *** Profile Picture Test Passed ***
+30/08/2023 10:22:02 PM: INFO: *** Ending Profile Picture test ***
+30/08/2023 10:22:02 PM: INFO:
+
+30/12/2021 10:07:02 PM: INFO: ====== WebDriver manager ======
+30/12/2021 10:07:02 PM: INFO: Current google-chrome version is 95.0.4638
+30/12/2021 10:07:02 PM: INFO: Get LATEST driver version for 95.0.4638
+30/12/2021 10:07:02 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/12/2021 10:07:04 PM: INFO: *** Test_005_EmergencyContacts_Attachment ***
+30/12/2021 10:07:08 PM: INFO: *** Succesfully logged ***
+30/12/2021 10:07:08 PM: INFO: *** Started Attachment Test ***
+30/12/2021 10:07:10 PM: INFO: *** Adding Attachment ***
+30/12/2021 10:07:12 PM: INFO: *** Deleting Attachment ***
+30/12/2021 10:07:13 PM: INFO: *** Attachment Validation Test Started ***
+30/12/2021 10:07:13 PM: INFO: *** Attachment Test Passed ***
+30/12/2021 10:07:13 PM: INFO: *** Ending Attachment test ***
+30/12/2021 10:07:13 PM: INFO:
+
+30/13/2021 08:12:41 PM: INFO: ====== WebDriver manager ======
+30/13/2021 08:12:41 PM: INFO: Current google-chrome version is 95.0.4638
+30/13/2021 08:12:41 PM: INFO: Get LATEST driver version for 95.0.4638
+30/13/2021 08:12:41 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
+30/13/2021 08:12:42 PM: INFO: *** Test_005_EmergencyContacts_Attachment ***
+30/13/2021 08:12:47 PM: INFO: *** Succesfully logged ***
+30/13/2021 08:12:47 PM: INFO: *** Started Attachment Test ***
+30/13/2021 08:12:49 PM: INFO: *** Adding Attachment ***
+30/13/2021 08:12:50 PM: INFO: *** Deleting Attachment ***
+30/13/2021 08:12:51 PM: INFO: *** Attachment Validation Test Started ***
+30/13/2021 08:12:51 PM: INFO: *** Attachment Test Passed ***
+30/13/2021 08:12:51 PM: INFO: *** Ending Attachment test ***
+30/13/2021 08:12:51 PM: INFO: 
 
