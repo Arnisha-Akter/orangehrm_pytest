@@ -9,10 +9,11 @@ Login Functionality Testing: The login functionality of OrangeHRM Demo will be t
 Test Automation: The Selenium framework will be utilized for automating web browsers and interacting with the OrangeHRM Demo platform. It provides a powerful set of tools for simulating user actions, validating web elements, and performing assertions.
 Features
 Page Object Model
-Data Driven Testing
+Data-Driven Testing
 Multiple Browsers Support
 Parallel Testing
-#Setup
+
+# Setup
   Install and configure Python3
 
   Setup your IDE
