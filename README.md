@@ -12,11 +12,17 @@ Page Object Model
 Data Driven Testing
 Multiple Browsers Support
 Parallel Testing
-Setup
-Install and configure Python3
+#Setup
+  Install and configure Python3
 
-Setup your IDE
+  Setup your IDE
 
+  Import cloned repository as project
+
+  Install all the required packages:
+
+    pip install -r requirements.txt
+  To run tests, use run.py
 Import cloned repository as project
 
 Install all the required packages:
