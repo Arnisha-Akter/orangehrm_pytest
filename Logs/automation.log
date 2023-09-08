@@ -30,7 +30,7 @@
 30/08/2023 10:30:02 PM: INFO: Current google-chrome version is 95.0.4638
 30/08/2023 10:30:02 PM: INFO: Get LATEST driver version for 95.0.4638
 30/08/2023 10:30:02 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-30/08/2023 10:30:04 PM: INFO: *** Test_005_Membership_Attachment ***
+30/08/2023 10:30:04 PM: INFO: *** Test_003_Membership_Attachment ***
 30/08/2023 10:30:10 PM: INFO: *** Succesfully logged ***
 30/08/2023 10:30:10 PM: INFO: *** Started Attachment Test ***
 30/08/2023 10:30:12 PM: INFO: *** Adding Attachment ***
@@ -84,7 +84,7 @@
 30/08/2023 10:32:30 PM: INFO: Current google-chrome version is 95.0.4638
 30/08/2023 10:32:30 PM: INFO: Get LATEST driver version for 95.0.4638
 30/08/2023 10:32:30 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-30/08/2023 10:32:31 PM: INFO: *** Test_005_Membership_Attachment ***
+30/08/2023 10:32:31 PM: INFO: *** Test_003_Membership_Attachment ***
 30/08/2023 10:32:38 PM: INFO: *** Succesfully logged ***
 30/08/2023 10:32:38 PM: INFO: *** Started Attachment Test ***
 30/08/2023 10:32:40 PM: INFO: *** Adding Attachment ***
@@ -223,7 +223,7 @@
 30/08/2023 10:30:57 PM: INFO: Current google-chrome version is 95.0.4638
 30/08/2023 10:30:57 PM: INFO: Get LATEST driver version for 95.0.4638
 30/08/2023 10:30:57 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
-30/08/2023 10:30:59 PM: INFO: *** Test_005_Membership_Attachment ***
+30/08/2023 10:30:59 PM: INFO: *** Test_003_Membership_Attachment ***
 30/08/2023 10:02:03 PM: INFO: *** Succesfully logged ***
 30/08/2023 10:02:03 PM: INFO: *** Started Attachment Test ***
 30/08/2023 10:02:06 PM: INFO: *** Adding Attachment ***
@@ -295,7 +295,7 @@
 30/08/2023 10:26:58 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
 30/08/2023 10:26:59 PM: INFO: *** Saving License ***
 30/08/2023 10:26:59 PM: INFO: *** Deleting Licenses ***
-30/08/2023 10:26:59 PM: INFO: *** Test_005_Membership_Attachment ***
+30/08/2023 10:26:59 PM: INFO: *** Test_003_Membership_Attachment ***
 30/08/2023 10:27:00 PM: INFO: *** Succesfully logged ***
 30/08/2023 10:27:00 PM: INFO: *** Started Assign Membership Test ***
 30/08/2023 10:27:30 PM: INFO: *** License Test Validation Started ***
@@ -448,7 +448,7 @@
 30/08/2023 10:21:33 PM: INFO: Get LATEST driver version for 95.0.4638
 30/08/2023 10:21:33 PM: INFO: Driver [C:\Users\death\.wdm\drivers\chromedriver\win32\95.0.4638.69\chromedriver.exe] found in cache
 30/08/2023 10:21:33 PM: INFO: *** Login Passed ***
-30/08/2023 10:21:34 PM: INFO: *** Test_005_Membership_Attachment ***
+30/08/2023 10:21:34 PM: INFO: *** Test_003_Membership_Attachment ***
 30/08/2023 10:21:35 PM: INFO: *** Login Passed ***
 30/08/2023 10:21:35 PM: INFO: *** Succesfully logged ***
 30/08/2023 10:21:35 PM: INFO: *** Started Assign Membership Test ***
